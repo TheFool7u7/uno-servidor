@@ -1,0 +1,12 @@
+com\uno\server\modelo\Carta$Tipo.class
+com\uno\server\controlador\ServidorUNO.class
+com\uno\server\modelo\Partida.class
+com\uno\server\modelo\Baraja.class
+com\uno\server\modelo\Partida$1.class
+com\uno\server\util\Mensaje$Tipo.class
+com\uno\server\controlador\ManejadorCliente.class
+com\uno\server\modelo\Jugador.class
+com\uno\server\controlador\ManejadorCliente$1.class
+com\uno\server\util\Mensaje.class
+com\uno\server\modelo\Carta$Color.class
+com\uno\server\modelo\Carta.class
